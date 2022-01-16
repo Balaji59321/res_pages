@@ -1,0 +1,12 @@
+:root {
+  --bg-dark: rgb(221, 166, 166);
+}
+
+.color {
+  color: white !important;
+}
+
+.abs {
+  top: 16px;
+  left: 20px;
+}
